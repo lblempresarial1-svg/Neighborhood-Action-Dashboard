@@ -174,7 +174,7 @@ Percentual de pendências = (9 / 11) × 100 = 81,82%
 
 ### Interpretação dos resultados
 
-Os dados simulados mostram que 81,82% das ocorrências válidas ainda precisam 
+Os dados simulados mostram que 81,82% das ocorrências válidas ainda precisam de acompanhamento. 
 
 ## 12. Acessibilidade, Inclusão e Privacidade
 
@@ -204,7 +204,7 @@ Também não realiza integração com órgãos públicos ou serviços externos.
 
 O programa é um protótipo acadêmico desenvolvido em Python, utilizando uma interface de terminal.
 
-As informações são armazenadas em estruturas de dados durante a execução. Novos cadastros e alterações de status não são preservados automaticamente após o o encerramento do programa.
+As informações são armazenadas em estruturas de dados durante a execução. Novos cadastros e alterações de status não são preservados automaticamente após o encerramento do programa.
 
 O sistema não garante o atendimento real das demandas comunitárias.
 
@@ -266,8 +266,7 @@ O programa apresenta a mensagem:
 
 Observação: os cadastros e as alterações efetuadas durante os exemplos não são armazenados permanentemente após o encerramento do programa. 
 
-14. Conclusões e Aprendizados
-
+## 14. Conclusões e Aprendizados
 O desenvolvimento do Neighborhood Action Dashboard permitiu aplicar conhecimentos fundamentais das primeiras fases do curso de Ciências da Computação da FIAP.
 
 O projeto demonstrou a utilização de funções, variáveis, estruturas condicionais, laços de repetição, listas, filas, pilhas, dicionários, hierarquias e matrizes.
@@ -299,3 +298,4 @@ Todos os dados utilizados sao ficticios, sem identificacao pessoal de moradores.
 Link do video no YouTube: A inserir apos a gravacao.
 
 O video demonstrara o funcionamento do sistema, suas principais funcionalidades, estruturas de dados, validacoes e indicadores.
+
