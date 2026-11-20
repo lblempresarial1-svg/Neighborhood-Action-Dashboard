@@ -7,7 +7,7 @@
 **Aluno:** Leonardo Bezerra Lima 
 **RM:** 575051
 **Curso:** Ciências da Computação 
-**Global Solution:** 2º Semestre de 2026
+**Global Solution:** 2º Semestre de 2026 
 **Equipe:** Desenvolvimento individual
 ## 1. Objetivo
 
@@ -293,7 +293,9 @@ O publico beneficiado seria composto por moradores, representantes comunitarios 
 
 Todos os dados utilizados sao ficticios, sem identificacao pessoal de moradores.
 
-## 16. Video de Apresentacao
+## 16. Video de Apresentacao 
+https://youtu.be/YeIcb5QQk_k 
+[Assistir à apresentação do projeto](https://youtu.be/YeIcb5QQk_k)
 
 Link do video no YouTube: A inserir apos a gravacao.
 
